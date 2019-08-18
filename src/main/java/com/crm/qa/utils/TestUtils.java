@@ -29,7 +29,7 @@ public class TestUtils extends TestBase {
 	static JavascriptExecutor js;
 
 	
-	public static Object[][] getTestData(String sheetName) {
+	public static Object[][] getTestData(String sheetName) throws InvalidFormatException {
 		FileInputStream file = null;
 		try {
 			file = new FileInputStream(TESTDATA_SHEET_PATH);
@@ -38,8 +38,6 @@ public class TestUtils extends TestBase {
 		}
 		try {
 			book = WorkbookFactory.create(file);
-		} catch (InvalidFormatException e) {
-			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="12" failures="3" name="TestSuite" time="8.785" errors="0" skipped="0">
+<testsuite tests="12" failures="0" name="TestSuite" time="21.826" errors="0" skipped="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="FreeCrmProject"/>
@@ -7,7 +7,6 @@
     <property name="NUMBER_OF_PROCESSORS" value="4"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="JENKINS_HOME" value="C:\Users\Sandeep\.jenkins"/>
-    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
     <property name="HUDSON_SERVER_COOKIE" value="8308d047a9c72b47"/>
     <property name="POM_ARTIFACTID" value="PageObjectModel"/>
     <property name="os.name" value="Windows 10"/>
@@ -22,7 +21,6 @@
     <property name="TEMP" value="C:\Users\Sandeep\AppData\Local\Temp"/>
     <property name="java.runtime.version" value="1.8.0_211-b12"/>
     <property name="ST_INSTALL_PATH" value="C:\Program Files (x86)\Micro Focus\Unified Functional Testing\"/>
-    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
     <property name="user.name" value="Sandeep"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
@@ -31,8 +29,8 @@
     <property name="PROMPT" value="$P$G"/>
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="FreeCrmProject"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/FreeCrmProject/3/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/FreeCrmProject/5/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
     <property name="OneDrive" value="C:\Users\Sandeep\OneDrive"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
     <property name="LOCALAPPDATA" value="C:\Users\Sandeep\AppData\Local"/>
@@ -44,7 +42,7 @@
     <property name="NODE_NAME" value="master"/>
     <property name="OneDriveConsumer" value="C:\Users\Sandeep\OneDrive"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="3"/>
+    <property name="BUILD_ID" value="5"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -61,7 +59,7 @@
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="10.0"/>
     <property name="platformcode" value="KV"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/FreeCrmProject/3/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/FreeCrmProject/5/display/redirect"/>
     <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="TMP" value="C:\Users\Sandeep\AppData\Local\Temp"/>
     <property name="path.separator" value=";"/>
@@ -71,8 +69,8 @@
     <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
     <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-OHLH8S6H"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
-    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
     <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="HOMEPATH" value="\Users\Sandeep"/>
@@ -85,7 +83,7 @@
     <property name="POM_GROUPID" value="PageObjectModel"/>
     <property name="user.home" value="C:\Users\Sandeep"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-FreeCrmProject-3"/>
+    <property name="BUILD_TAG" value="jenkins-FreeCrmProject-5"/>
     <property name="JENKINS_SERVER_COOKIE" value="8308d047a9c72b47"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -93,14 +91,14 @@
     <property name="USERPROFILE" value="C:\Users\Sandeep"/>
     <property name="CLASSPATH" value=""/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject/bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Sandeep\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files\nodejs\;C:\Users\Sandeep\AppData\Local\Programs\Python\Python37-32;C:\Users\Sandeep\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandeep\AppData\Local\atom\bin;;C:\Users\Sandeep\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandeep\AppData\Roaming\npm;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject/bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Sandeep\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd\;C:\Program Files\Git\bin\;C:\Users\Sandeep\AppData\Local\Programs\Python\Python37-32;C:\Users\Sandeep\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandeep\AppData\Local\atom\bin;;C:\Users\Sandeep\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandeep\AppData\Roaming\npm;."/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="APPDATA" value="C:\Users\Sandeep\AppData\Roaming"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject"/>
     <property name="java.class.path" value="C:\Users\Sandeep\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject\boot\plexus-classworlds-2.6.0.jar;C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject C:\Users\Sandeep\.jenkins\war\WEB-INF\lib\remoting-3.29.jar C:\Users\Sandeep\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\Sandeep\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 61247"/>
-    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Sandeep\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files\nodejs\;C:\Users\Sandeep\AppData\Local\Programs\Python\Python37-32;C:\Users\Sandeep\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandeep\AppData\Local\atom\bin;;C:\Users\Sandeep\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandeep\AppData\Roaming\npm"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject C:\Users\Sandeep\.jenkins\war\WEB-INF\lib\remoting-3.29.jar C:\Users\Sandeep\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\Sandeep\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 62215"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Sandeep\Downloads\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd\;C:\Program Files\Git\bin\;C:\Users\Sandeep\AppData\Local\Programs\Python\Python37-32;C:\Users\Sandeep\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandeep\AppData\Local\atom\bin;;C:\Users\Sandeep\AppData\Local\Microsoft\WindowsApps;C:\Users\Sandeep\AppData\Roaming\npm"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
     <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel"/>
@@ -114,7 +112,7 @@
     <property name="HUDSON_HOME" value="C:\Users\Sandeep\.jenkins"/>
     <property name="PATH+MAVEN" value="C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/FreeCrmProject/3/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/FreeCrmProject/5/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
@@ -129,7 +127,7 @@
 "/>
     <property name="MAVEN_HOME" value="C:\Users\Sandeep\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MavenProject"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="3"/>
+    <property name="BUILD_NUMBER" value="5"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="PROCESSOR_REVISION" value="8e09"/>
     <property name="ProgramW6432" value="C:\Program Files"/>
@@ -144,175 +142,16 @@
     <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
     <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
   </properties>
-  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="verifyContactsPageLabelTest" time="0.069"/>
-  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyHomePageTitleTest" time="0.012"/>
-  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginPageTitleTest" time="0.017"/>
-  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="selectSingleContactsTest" time="0.169"/>
-  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyUsernameDisplayed" time="0.151"/>
-  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="crmLogoTest" time="0.089"/>
-  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="selectMultipleContactsTest" time="0.265"/>
-  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyContactsLinkTest" time="0.945"/>
-  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginTest" time="6.806"/>
-  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="0.113">
-    <failure message="mouseMoveTo
-Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;LAPTOP-OHLH8S6H&apos;, ip: &apos;192.168.1.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;
-Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.UnsupportedCommandException">org.openqa.selenium.UnsupportedCommandException: mouseMoveTo
-Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;LAPTOP-OHLH8S6H&apos;, ip: &apos;192.168.1.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.http.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:220)
-	at org.openqa.selenium.remote.http.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:118)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
-	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
-	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
-	at org.openqa.selenium.support.events.internal.EventFiringMouse.mouseMove(EventFiringMouse.java:58)
-	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:43)
-	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:36)
-	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:634)
-	at com.crm.qa.pages.HomePage.clickOnNewContact(HomePage.java:60)
-	at com.crm.qa.testcases.ContactsPageTest.validateCreateNewContactTest(ContactsPageTest.java:59)
-</failure>
-    <system-out>Before navigating to: &apos;https://www.crmpro.com/index.html&apos;
-Navigated to:&apos;https://www.crmpro.com/index.html&apos;
-Trying to find Element By : By.name: username
-Found Element By : By.name: username
-Trying to find Element By : By.name: password
-Found Element By : By.name: password
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to click on: [[ChromeDriver: chrome on ANY (1844d38ef8ee8195bca01bcf88f64f16)] -&gt; xpath: //input[@type=&apos;submit&apos;]]
-Clicked on: [[ChromeDriver: chrome on ANY (1844d38ef8ee8195bca01bcf88f64f16)] -&gt; xpath: //input[@type=&apos;submit&apos;]]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to click on: [[ChromeDriver: chrome on ANY (1844d38ef8ee8195bca01bcf88f64f16)] -&gt; xpath: //a[contains(text(),&apos;Contacts&apos;)]]
-Clicked on: [[ChromeDriver: chrome on ANY (1844d38ef8ee8195bca01bcf88f64f16)] -&gt; xpath: //a[contains(text(),&apos;Contacts&apos;)]]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-</system-out>
-    <system-err>Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 44953
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Aug 16, 2019 4:57:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-</system-err>
-  </testcase>
-  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="0.081">
-    <failure message="mouseMoveTo
-Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;LAPTOP-OHLH8S6H&apos;, ip: &apos;192.168.1.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;
-Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.UnsupportedCommandException">org.openqa.selenium.UnsupportedCommandException: mouseMoveTo
-Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;LAPTOP-OHLH8S6H&apos;, ip: &apos;192.168.1.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.http.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:220)
-	at org.openqa.selenium.remote.http.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:118)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
-	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
-	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
-	at org.openqa.selenium.support.events.internal.EventFiringMouse.mouseMove(EventFiringMouse.java:58)
-	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:43)
-	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:36)
-	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:634)
-	at com.crm.qa.pages.HomePage.clickOnNewContact(HomePage.java:60)
-	at com.crm.qa.testcases.ContactsPageTest.validateCreateNewContactTest(ContactsPageTest.java:59)
-</failure>
-    <system-out>Before navigating to: &apos;https://www.crmpro.com/index.html&apos;
-Navigated to:&apos;https://www.crmpro.com/index.html&apos;
-Trying to find Element By : By.name: username
-Found Element By : By.name: username
-Trying to find Element By : By.name: password
-Found Element By : By.name: password
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to click on: [[ChromeDriver: chrome on ANY (a87dc8957ef52647f93ade24e6de61cf)] -&gt; xpath: //input[@type=&apos;submit&apos;]]
-Clicked on: [[ChromeDriver: chrome on ANY (a87dc8957ef52647f93ade24e6de61cf)] -&gt; xpath: //input[@type=&apos;submit&apos;]]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to click on: [[ChromeDriver: chrome on ANY (a87dc8957ef52647f93ade24e6de61cf)] -&gt; xpath: //a[contains(text(),&apos;Contacts&apos;)]]
-Clicked on: [[ChromeDriver: chrome on ANY (a87dc8957ef52647f93ade24e6de61cf)] -&gt; xpath: //a[contains(text(),&apos;Contacts&apos;)]]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-</system-out>
-    <system-err>Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 26920
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Aug 16, 2019 4:57:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-</system-err>
-  </testcase>
-  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="0.068">
-    <failure message="mouseMoveTo
-Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;LAPTOP-OHLH8S6H&apos;, ip: &apos;192.168.1.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;
-Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.UnsupportedCommandException">org.openqa.selenium.UnsupportedCommandException: mouseMoveTo
-Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;LAPTOP-OHLH8S6H&apos;, ip: &apos;192.168.1.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.http.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:220)
-	at org.openqa.selenium.remote.http.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:118)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
-	at org.openqa.selenium.remote.RemoteExecuteMethod.execute(RemoteExecuteMethod.java:35)
-	at org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:89)
-	at org.openqa.selenium.support.events.internal.EventFiringMouse.mouseMove(EventFiringMouse.java:58)
-	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:43)
-	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:36)
-	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:634)
-	at com.crm.qa.pages.HomePage.clickOnNewContact(HomePage.java:60)
-	at com.crm.qa.testcases.ContactsPageTest.validateCreateNewContactTest(ContactsPageTest.java:59)
-</failure>
-    <system-out>Before navigating to: &apos;https://www.crmpro.com/index.html&apos;
-Navigated to:&apos;https://www.crmpro.com/index.html&apos;
-Trying to find Element By : By.name: username
-Found Element By : By.name: username
-Trying to find Element By : By.name: password
-Found Element By : By.name: password
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to find Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Found Element By : By.xpath: //input[@type=&apos;submit&apos;]
-Trying to click on: [[ChromeDriver: chrome on ANY (524d2a779a144f0f41f1d969076a162f)] -&gt; xpath: //input[@type=&apos;submit&apos;]]
-Clicked on: [[ChromeDriver: chrome on ANY (524d2a779a144f0f41f1d969076a162f)] -&gt; xpath: //input[@type=&apos;submit&apos;]]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to click on: [[ChromeDriver: chrome on ANY (524d2a779a144f0f41f1d969076a162f)] -&gt; xpath: //a[contains(text(),&apos;Contacts&apos;)]]
-Clicked on: [[ChromeDriver: chrome on ANY (524d2a779a144f0f41f1d969076a162f)] -&gt; xpath: //a[contains(text(),&apos;Contacts&apos;)]]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Trying to find Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-Found Element By : By.xpath: //a[contains(text(),&apos;Contacts&apos;)]
-</system-out>
-    <system-err>Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 19706
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Aug 16, 2019 4:58:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-</system-err>
-  </testcase>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="verifyContactsPageLabelTest" time="0.149"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyHomePageTitleTest" time="0.113"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginPageTitleTest" time="0.147"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="selectSingleContactsTest" time="0.298"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyUsernameDisplayed" time="0.618"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="crmLogoTest" time="0.291"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="selectMultipleContactsTest" time="0.401"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyContactsLinkTest" time="1.202"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginTest" time="7.528"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="3.254"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="4.122"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContactTest" time="3.703"/>
 </testsuite>

@@ -2,6 +2,7 @@ package com.crm.qa.testcases;
 
 import java.io.IOException;
 
+import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -49,7 +50,7 @@ public class ContactsPageTest extends TestBase {
 		contactsPage.selectContactByName("sarab sandhu");
 	}
 	@DataProvider
-	public Object[][] getCRMTestData() {
+	public Object[][] getCRMTestData() throws InvalidFormatException {
 		Object data[][]=TestUtils.getTestData(sheetName);
 		return data;
 		

@@ -8,27 +8,4 @@
       <class name="com.crm.qa.testcases.LoginPageTest"/>
     </classes>
   </test> <!-- Command line test -->
-  <test name="Command line test(failed)">
-    <classes>
-      <class name="com.crm.qa.testcases.HomePageTest">
-        <methods>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.crm.qa.testcases.HomePageTest -->
-      <class name="com.crm.qa.testcases.ContactsPageTest">
-        <methods>
-          <include name="setUp"/>
-          <include name="validateCreateNewContactTest" invocation-numbers="0 1 2"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
-      <class name="com.crm.qa.testcases.LoginPageTest">
-        <methods>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
-    </classes>
-  </test> <!-- Command line test(failed) -->
 </suite> <!-- Failed suite [Command line suite] -->

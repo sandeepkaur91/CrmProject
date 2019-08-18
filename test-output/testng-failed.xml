@@ -6,15 +6,4 @@
       <class name="com.crm.qa.testcases.ContactsPageTest"/>
     </classes>
   </test> <!-- Default test -->
-  <test name="Default test(failed)">
-    <classes>
-      <class name="com.crm.qa.testcases.ContactsPageTest">
-        <methods>
-          <include name="setUp"/>
-          <include name="validateCreateNewContactTest" invocation-numbers="0 1 2"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
-    </classes>
-  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
